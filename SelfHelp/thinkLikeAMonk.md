@@ -22,7 +22,7 @@ This blog is actually just a note for people who already read that and this may 
 10) Relationship
 11) Service
 
-# Quotes
+# Key Quotes & Insights
 I feel like quotes can take you to exact time your read that. So instead of giving a gist or summary on chapter, I am just writing those. The quotes and content will be in order and the chapter number will be in square brackets. Don't think I'm leaking the quotes from the book; Jay also post these quotes in his instagram account.
 
 "It is better to live your own destiny imperfectly than to live an imitation of somebody else's life with perfection"
@@ -33,20 +33,24 @@ I feel like quotes can take you to exact time your read that. So instead of givi
 <br>
 "Focus on the Root not the leaf or symptoms of the problem"
 <br>
-**"I am not what I think I am, and I am not what you think I am. I am what I think, you think I am"**[1]
+>"I am not what I think I am, and I am not what you think I am. I am what I think, you think I am"[1]
 <br>
+
 "The desire to save others is ego driven" (Then why you get frustrated when people don't take your advice.)[2]
 <br>
 "The more we define ourselves in relationship to the people around us, the more lost we are"[2]
 <br>
-**"The material world has convinced us that there are only a limited number of colleges worth attending, a limited no of good jobs available, a limited no of people who get luck"**[2]
+>"The material world has convinced us that there are only a limited number of colleges worth attending, a limited no of good jobs available, a limited no of people who get luck"[2]
 <br>
+
 "The reason we're hurting over past is because we've made progress."[2]
 <br>
 "We have so much to offer the world, but fear and anxiety disconnected us from our abilities"[3]
 <br>
 "If you are only excited, when people say nice things about your work, it's a sign that we are not passionate about the work itself."
 <br>
+
+
 "you can't be anything you want, but you can be everything you are."[5]
 <br>
 "Our limitations makes space for the gifts of other people."[5]
@@ -65,12 +69,16 @@ I feel like quotes can take you to exact time your read that. So instead of givi
 <br>
 "Don't take everything personally, it is usually not about you"[8]
 <br>
+
+
+
 "We are in the habit of thinking that we don't deserve misfortune, but that we do deserve whatever blessing have come our way."[9]
 <br>
 "Receiving gratitude acquires vulnerability, and openness"[9]
 <br>
-**"People come into your life for a reason, a season or a lifetime"**[10]
+>"People come into your life for a reason, a season or a lifetime"[10]
 <br>
+
 "Nobody completes you, you are not half"[10]
 <br>
 **"We seek to leave a place cleaner than we found people happier than we found them the world better than we found it"**[11]
@@ -101,6 +109,6 @@ I feel like quotes can take you to exact time your read that. So instead of givi
 <div align="center"><b>Until the whole world is healed and happy, I haven't finished</b></div>
 This was the Dharma of Jay Shetty (author). And it actually inspired me a lot.
 
-# Conclusion
-The book was actually good. If I want to read some part again it would be chapter 8 (EGO), 9 (GRATITUDE), 5 (PURPOSE) and 11 (SERVICE).
+# My Favorite Chapters
+Overall, Think Like a Monk wasn’t just a book for me—it was a mirror. The second time I read it, I was in a place where I needed its lessons, and they landed differently. If I had to revisit any chapters, I’d go back to Chapter 5 (Purpose), 8 (Ego), 9 (Gratitude), and 11 (Service). Each of them holds something I need to remind myself of often.
 [Order Book](https://thinklikeamonkbook.com/)
