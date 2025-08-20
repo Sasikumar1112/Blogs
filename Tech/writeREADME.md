@@ -5,6 +5,17 @@ I used to checkout the `Add a README file` checkbox whenever I create a new repo
 README file is the face of your repo. Haven't heard that judgmental proverb `Face is the index of the mind`.
 People are not going to read each and every file to know what the project is about. The title 'final year project' never tells everything about your project (It needs an Asian kid's level IQ to get info just by the title). So it is crucial to write a good README file so that people can skip your project at first glance 😉.
 
+# Basic MarkDowns
+* ``#[SPACE]`` -> Heading (# h1, ## h2, ### h3)
+* ``*[SPACE]`` -> makes bulletins
+* ``**[TEXT]**`` -> Bold
+* ``***[TEXT]***`` -> Italics
+* ``>[TEXT]`` -> Blocked quotes like this
+> This is a blocked quote
+* ``[Title](LINK)`` -> To add hyperlinks
+* ``![Title](URL)`` -> Add image or use img html tag as shown in [Cool stuffs](#cool-stuffs)
+* \`\` -> for inline code
+
 # Should contain
 Here is a list of contents that should be present in a project repo
 * Project Title
