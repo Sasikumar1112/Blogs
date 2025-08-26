@@ -16,6 +16,20 @@ People are not going to read each and every file to know what the project is abo
 * ``![Title](URL)`` -> Add image or use img html tag as shown in [Cool stuffs](#cool-stuffs)
 * \`\` -> for inline code
 
+* Table
+```md
+| Name      | Age | City       |
+|-----------|-----|------------|
+| Brad pitt | 40  | Oklahoma  |
+| Rajinikanth | 60  | Chennai    |
+| Di Caprio     | 25  | Bangalore  |
+```
+| Name      | Age | City       |
+|-----------|-----|------------|
+| Brad pitt | 40  | Oklahoma  |
+| Rajinikanth | 60  | Chennai    |
+| Di Caprio     | 25  | Bangalore  |
+
 # Should contain
 Here is a list of contents that should be present in a project repo
 * Project Title
@@ -54,6 +68,7 @@ function uptown(){
 
 # Linking Contents
 We can link that can guide to a specific part of the file. use `#` to select the heading of the content like this
+(only works in github.com, not in other blog sites)
 ```md
 [Intro](#writing-a-readme-file)
 ```
